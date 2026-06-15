@@ -2,7 +2,7 @@
 
 A population-scale Alzheimer's disease simulation built in Python that models disease prevalence and progression across a synthetic population using demographic and genetic risk factors. The application combines object-oriented programming, stochastic simulation, interactive visualization, and a Tkinter-based graphical interface to explore how age, gender, APOE4 status, and family history influence Alzheimer's outcomes over time.
 
-This project was built for **CS 152 (Computational Thinking: Science)** at Colby College.
+This project was built as the final project for **CS 152 (Computational Thinking: Science)** at Colby College.
 
 ## Features
 
