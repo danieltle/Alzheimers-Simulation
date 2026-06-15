@@ -177,3 +177,7 @@ python3 app.py
 ## Author
 
 **Daniel Le**
+
+Mathematics & Statistics • Computer Science
+
+Colby College
