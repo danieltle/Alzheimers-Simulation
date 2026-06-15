@@ -170,8 +170,7 @@ python3 app.py
 
 ## Data Sources
 
-- Alzheimer's Association — 2025 Alzheimer's Disease Facts and Figures
-- National Institute on Aging (NIA)
+- [Alzheimer's Association — 2025 Alzheimer's Disease Facts and Figures](https://www.alz.org/getmedia/ef8f48f9-ad36-48ea-87f9-b74034635c1e/alzheimers-facts-and-figures.pdf)
 
 ---
 
